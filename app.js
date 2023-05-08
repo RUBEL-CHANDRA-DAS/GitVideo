@@ -1,1 +1,1 @@
-allert("HELLO THERE!!!")
+alert("HELLO THERE!!!")
